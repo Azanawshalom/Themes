@@ -2,7 +2,31 @@
 
 #colophon{
 	text-align: center;
-	background-color: green ;
+	background-color: black;
+	height: fit-content
 
 
+}
+#comments .submit {
+  padding: 10px 15px;
+  border-radius: 2px;
+}
+
+.comments-area {
+  border-top: 1px solid #eeeeee;
+  margin-top: 2em;
+ 
+}
+.site-info{
+	text-align: center;
+	margin-top: 19;
+	align-items: center;
+
+}
+.navbar-collapse{
+	align-items: flex-end;
+}
+#footer-sidebar1{
+	text-align: 10px;
+	text-decoration-color: black
 }
