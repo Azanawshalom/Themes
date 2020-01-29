@@ -3,10 +3,11 @@
 #colophon{
 	text-align: center;
 	background-color: black;
-	height: fit-content
+	padding-top: 12px;
+	padding-bottom: 13px;
+	margin-bottom: 0px;
+	}
 
-
-}
 #comments .submit {
   padding: 10px 15px;
   border-radius: 2px;
@@ -14,7 +15,7 @@
 
 .comments-area {
   border-top: 1px solid #eeeeee;
-  margin-top: 2em;
+  margin-top: 2em
  
 }
 .site-info{
@@ -25,8 +26,30 @@
 }
 .navbar-collapse{
 	align-items: flex-end;
+	margin: right
 }
 #footer-sidebar1{
-	text-align: 10px;
-	text-decoration-color: black
+	margin-left: 8px;
+	
+}
+
+#secondary{
+	display: flex;
+	flex: 2;
+	display: inline-block;
+	margin-left: 120px;
+	display: 100%;
+	background-color: #F8F9F9 ;
+	padding-right: 350px;
+	text-indent: 5%;
+	text-decoration-color: black;
+
+}
+.site-content{
+	font-family: sans-serif;
+
+	}
+
+#page{
+	background-color: black;
 }
