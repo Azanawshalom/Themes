@@ -20,8 +20,9 @@
 }
 .site-info{
 	text-align: center;
-	margin-top: 19;
+	
 	align-items: center;
+	margin-bottom: 15px;
 
 }
 .navbar-collapse{
@@ -32,6 +33,7 @@
 	margin-left: 8px;
 	
 }
+
 
 #secondary{
 	display: flex;
@@ -46,9 +48,7 @@
 
 }
 
-#site-navigation{
-	background-color: red;
-}
+
 .site-content{
 	font-family: sans-serif;
 
