@@ -45,11 +45,16 @@
 	text-decoration-color: black;
 
 }
+
+#site-navigation{
+	background-color: red;
+}
 .site-content{
 	font-family: sans-serif;
 
 	}
 
-#page{
-	background-color: black;
+.col-sm-4{
+	background-color: #333333  ;
+	padding-left: 10px;
 }
