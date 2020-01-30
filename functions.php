@@ -15,6 +15,11 @@ if ( ! function_exists( 'vibrant_setup' ) ) :
 	 * runs before the init hook. The init hook is too late for some features, such
 	 * as indicating support for post thumbnails.
 	 */
+
+#function metro-news_add_editor_styles() {
+    #add_editor_style( 'custom-editor-style.css' );
+#}
+#add_action( 'admin_init', 'metro-news_add_editor_styles' );
 	function vibrant_setup() {
 		/*
 		 * Make theme available for translation.
