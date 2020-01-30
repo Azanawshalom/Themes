@@ -43,8 +43,10 @@ input.search-submit{
 }
 #primary{
 	background-color:#F8F9F9 ;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 0px;
 	
-	text-align: center;
 
 }
 
