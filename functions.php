@@ -274,7 +274,7 @@ class vibrant extends Walker_Nav_Menu
     }
 }
 
-require get_template_directory() . '/inc/custom-header.php';
+
 
 /**
  * Custom template tags for this theme.
