@@ -28,6 +28,7 @@
 input.search-submit{
 	background-color:#F8F9F9 ;  
 }
+
 .navbar-collapse{
 	align-items: flex-end;
 	margin: right
@@ -39,6 +40,12 @@ input.search-submit{
 #new-container{
 	width:80px;
 	height:60px;
+}
+#primary{
+	background-color:#F8F9F9 ;
+	
+	text-align: center;
+
 }
 
 #secondary{
